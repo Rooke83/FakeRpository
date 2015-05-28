@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebViewTutorial</string>
+
+
+    <string name="set_hp">Save As Homepage</string>
+    <string name="enter">Enter</string>
+</resources>
